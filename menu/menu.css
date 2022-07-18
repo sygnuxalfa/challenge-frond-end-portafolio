@@ -1,0 +1,28 @@
+section.menu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.menu__banner{
+
+    background-repeat: no-repeat;
+    background-size: cover;  
+    padding: 1rem;
+}
+
+.menu__header{
+    display: flex;
+}
+
+
+.menu__list{
+    
+    display: flex;
+    padding-right: 3rem;
+}
+
+.menu__list__item{
+
+    padding-right: 2rem;
+}

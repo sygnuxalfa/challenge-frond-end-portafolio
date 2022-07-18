@@ -1,0 +1,44 @@
+.presentacion__foto{
+    background: url(../assets/perfil-foto2.png) no-repeat;
+    background-size:cover;
+    background-position:-5px;
+   
+    width: 550px;
+    height: 350px;
+   
+    border-radius: 50%;
+}
+
+.presentacion__datos{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.presentacion__container{
+    display: flex;
+    flex-direction: column;
+    background-color: #c2c6c7;
+    padding-left: 1rem;
+}
+
+.presentacion__bio{
+    padding-top: 2rem;
+
+}
+.presentacion__subsection{
+
+    font-weight: normal;
+}
+
+
+.presentacion__network{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8rem; 
+    padding-left: 0rem;
+}
+
+
+.title__network__item{
+    padding-right: 2rem;  
+}

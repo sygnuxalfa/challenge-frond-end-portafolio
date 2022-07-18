@@ -1,0 +1,45 @@
+.estudios{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+.academic__courses__list{
+    display: flex;
+    padding-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+}
+.estudios__curso{
+    display: flex;
+    flex-direction: row;
+}
+.academia__img1{
+
+    background-image: url(../assets/uniminuto.png);
+    background-size:10rem;
+    background-repeat: no-repeat;
+    width: 10rem;
+    height: 10rem;
+}
+
+.academia__img2{
+
+    background-image: url(../assets/nicola\ tesla.png);
+    background-size:10rem;
+    background-repeat: no-repeat;
+    width: 10rem;
+    height: 10rem;
+}
+.academia__img3{
+
+    background-image: url(../assets/alura_logo.png);
+    background-size:10rem;
+    background-repeat: no-repeat;
+    width: 10rem;
+    height: 10rem;
+}
+

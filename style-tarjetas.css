@@ -1,0 +1,21 @@
+.tarjetas__box{
+
+    padding-left: 0rem;
+    
+    margin-right: 2rem;
+    width: 15%;
+   
+    background-color: #b9b9b8;
+    border-radius: 10px;
+
+}
+.tarjetas__item{
+    
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding-left: 0rem;
+}

@@ -1,0 +1,15 @@
+.perfil__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    
+
+}
+.perfil__sobre-mi{
+
+    
+    max-width: 50%;
+}

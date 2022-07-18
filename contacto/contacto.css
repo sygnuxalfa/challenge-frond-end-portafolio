@@ -1,0 +1,51 @@
+.contacto__contenido{
+    display: flex;
+    flex-direction:row;
+   
+}
+.contacto__img{
+
+    max-width: 120%;
+    max-height: 62vh;
+}
+.contacto__text{
+
+    display: flex;
+    flex-direction: column; 
+
+    margin-left: 1rem;
+}
+.contacto__form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.contacto__input{
+    margin-bottom: .5rem;
+    width: 35%;
+    border-radius: 5px;
+}
+
+.contacto__textarea{
+
+    width: 50%;
+    resize: none;
+    margin-bottom: .1rem ;
+    border-radius: 5px;
+}
+
+
+.contacto_contador{
+
+    margin: 0px 0px 7px;
+}
+.contacto__boton{
+
+    cursor: pointer;
+    background: rgb(109, 109, 110);
+    color: aliceblue;
+    width: 25%;
+    padding: .5rem;
+    border-radius: 8px;
+}
+
